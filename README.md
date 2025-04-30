@@ -1,1 +1,2 @@
 # sujana_task5
+Three datasets—train5.csv, test5.csv, and gender_submission.csv—were obtained from Kaggle. Data analysis was conducted using Python in Jupyter Notebook. The datasets were cleaned by converting object types to strings and categories, and missing values were filled using median or mode. Various visualizations were created, including bar charts, scatter plots, histograms, boxplots, heatmaps, and pairplots.
